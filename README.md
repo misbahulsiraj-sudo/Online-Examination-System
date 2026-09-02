@@ -1,4 +1,4 @@
-# Online Examination System
+# 📔 Online Examination System
 
 A Python-based Online Examination System that allows students to register, log in, take multiple-choice exams, and view their results through a simple console interface.
 
